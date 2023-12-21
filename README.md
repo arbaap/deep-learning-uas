@@ -2,6 +2,8 @@
 
 ---
 
+## ini adalah project orang lain ..
+
 ### Domain Project
 
 > **Domain proyek yang dipilih dalam proyek machine learning ini adalah mengenai kesehatan dengan judul proyek "Prediksi Penyakit Kanker Payudara pada Manusia/Wanita"**.
